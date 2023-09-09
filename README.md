@@ -3,10 +3,7 @@
 ## Overview
 
 This repository includes the implementation of the Breadth-First Search (BFS) and Depth-First Search (DFS) algorithms in C++. 
-## Table of Contents
 
-- [Implemented Algorithms](#implemented-algorithms)
-     - [Depth-First Search (DFS](#depth-first-search-(DFS))
 ## Implemented Algorithms
 
 ### Breadth-First Search (BFS)
