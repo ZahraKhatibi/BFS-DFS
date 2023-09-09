@@ -17,7 +17,7 @@ DFS is another graph traversal algorithm that explores as far as possible along 
 # Example
 
 In this graph:
-![](pic.png)
+<img src="pic.png" alt="" width="500"/>
 
 ## Breadth-First Search (BFS) Traversal
 
