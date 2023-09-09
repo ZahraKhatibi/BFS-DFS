@@ -2,8 +2,7 @@
 
 ## Overview
 
-This repository includes the implementation of the Breadth-First Search (BFS) and Depth-First Search (DFS) algorithms in various programming languages. These fundamental graph traversal algorithms are essential tools in computer science and have a wide range of applications, from solving puzzles to network analysis.
-
+This repository includes the implementation of the Breadth-First Search (BFS) and Depth-First Search (DFS) algorithms in various programming languages. 
 ## Table of Contents
 
 - [Implemented Algorithms](#implemented-algorithms)
