@@ -1,11 +1,8 @@
 # BFS and DFS Algorithms Implementation
 
-![GitHub](https://img.shields.io/github/license/your-username/your-repo)
-![GitHub last commit](https://img.shields.io/github/last-commit/your-username/your-repo)
-
 ## Overview
 
-This GitHub repository hosts the implementation of the Breadth-First Search (BFS) and Depth-First Search (DFS) algorithms in various programming languages. These fundamental graph traversal algorithms are essential tools in computer science and have a wide range of applications, from solving puzzles to network analysis.
+This repository includes the implementation of the Breadth-First Search (BFS) and Depth-First Search (DFS) algorithms in various programming languages. These fundamental graph traversal algorithms are essential tools in computer science and have a wide range of applications, from solving puzzles to network analysis.
 
 ## Table of Contents
 
@@ -13,8 +10,6 @@ This GitHub repository hosts the implementation of the Breadth-First Search (BFS
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
 
 ## Implemented Algorithms
 
