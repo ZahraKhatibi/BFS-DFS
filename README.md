@@ -6,10 +6,7 @@ This repository includes the implementation of the Breadth-First Search (BFS) an
 ## Table of Contents
 
 - [Implemented Algorithms](#implemented-algorithms)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Contributing](#contributing)
-
+     - [Depth-First Search (DFS](#Depth-First-Search-(DFS))
 ## Implemented Algorithms
 
 ### Breadth-First Search (BFS)
