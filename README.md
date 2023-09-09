@@ -17,12 +17,7 @@ DFS is another graph traversal algorithm that explores as far as possible along 
 # Example
 
 In this graph:
-- Node `A` is connected to nodes `B` and `C`.
-- Node `B` is connected to nodes `A` and `D`.
-- Node `C` is connected to nodes `A`, `E`, and `F`.
-- Node `D` is connected to nodes `B`.
-- Node `E` is connected to nodes `C`.
-- Node `F` is connected to node `C`.
+![](pic.png)
 
 ## Breadth-First Search (BFS) Traversal
 
